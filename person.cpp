@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cstring>
-#include "person3.h"
+#include "person.h"
 
 using namespace std;
 
