@@ -3,7 +3,6 @@
 #include <fstream>
 #include <vector>
 #include <iomanip>
-#include "person3.h"
 #include "person3.cpp"
 
 void readData(vector<Person> &emp);
