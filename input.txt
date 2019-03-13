@@ -13,4 +13,4 @@ Olivia   Walker    120 Intel      61.15 51.5
 Thomas   Sanders   130 Raytheon   50.25 38.5
 Sophia   Foster    140 Raytheon   44.15 44.0
 Ryan     Ward      150 Douglas    68.0  48.25
-Karen Hill 160 Intel 49.5 54.0
+Karen    Hill      160 Intel      49.5  54.0
