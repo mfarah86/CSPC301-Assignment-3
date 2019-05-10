@@ -3,7 +3,7 @@
 #include <fstream>
 #include <vector>
 #include <iomanip>
-#include "person3.cpp"
+#include "person.cpp"
 
 void readData(vector<Person> &emp);
 void companyNames(vector<Person> &emp, vector<string> &comp);
@@ -31,7 +31,7 @@ void readData(vector<Person> &emp)
   float hours;
   string compName;
   ifstream inFile;
-  inFile.open("input3.txt");
+  inFile.open("input.txt");
   Person p;
   inFile >> firstName;
   while(!inFile.eof())
